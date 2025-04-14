@@ -1,0 +1,42 @@
+h1 {
+    font-size: x-large;
+    font-style: italic;
+    color: chartreuse;
+    text-align: center;
+    justify-content: space-around;
+    position: relative;
+    margin: top;
+
+}
+body {
+    background-color: lightsalmon;
+    justify-content: space-between;
+    flex: wrap;
+}
+nav {
+    border: 1px solid color red;
+    background-color: black;
+    height: 8vw;
+    width: 99vw;
+}
+img {
+    width: 40vw;
+    height: 30vw;
+    
+}
+
+
+.photo{
+    display: flex;
+     gap: 10px;
+     flex-wrap: wrap;
+}   
+ .toxic {
+    
+    gap: 10px;
+    border: 4px solid black;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+ }   
+ 
